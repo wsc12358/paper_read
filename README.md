@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-some papers about medical image processing
-=======
-This is my papers about medical image processing
->>>>>>> 51c76337fbadbae1777366d680caeadc7a2cf6cc
+##### 论文整理
+这里主要整理了读过的论文，主要有去噪，检测，配准，分割
